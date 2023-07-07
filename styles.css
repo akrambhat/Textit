@@ -1,0 +1,19 @@
+        .akramista {
+            color: red;
+            background-color: black;
+        }
+
+        #popupContainer {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            background-color: grey;
+            color: green;
+            padding: 5px;
+            display: none;
+        }
+
+        #popupContainer a {
+            margin-right: 10px;
+            text-decoration: none;
+        }
